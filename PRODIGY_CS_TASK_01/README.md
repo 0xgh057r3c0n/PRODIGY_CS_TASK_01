@@ -1,4 +1,4 @@
-# Caesar Cipher Program - task1.py
+# Caesar Cipher Program
 
 ## Overview
 `task1.py` is a command-line tool for encrypting and decrypting messages using the Caesar Cipher technique. It features an interactive menu allowing users to select options for encryption, decryption, and exiting the program. This tool is designed as an introduction to basic cryptography principles in Python.
