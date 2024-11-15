@@ -5,7 +5,7 @@ import sys
 init(autoreset=True)
 
 # Author and version
-__author__ = "G4UR4V007"
+__author__ = "0xgh057r3c0n"
 __version__ = "1.0"
 
 def display_banner():
