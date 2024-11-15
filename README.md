@@ -34,7 +34,7 @@ An example interaction with the script:
 ========================================
       Welcome to Caesar Cipher Program      
 ========================================
-Author: G4UR4V007   Version: 1.0
+Author: 0xgh057r3c0n   Version: 1.0
 ========================================
 
 Caesar Cipher Options
