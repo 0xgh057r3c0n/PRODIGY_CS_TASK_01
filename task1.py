@@ -1,10 +1,8 @@
 from colorama import Fore, Style, init
 import sys
 
-# Initialize colorama for color support on Windows
 init(autoreset=True)
 
-# Author and version
 __author__ = "0xgh057r3c0n"
 __version__ = "1.0"
 
@@ -67,5 +65,4 @@ def main():
             print(Fore.MAGENTA + "Goodbye!" + Style.RESET_ALL)
             sys.exit()
 
-# Run the program
 main()
